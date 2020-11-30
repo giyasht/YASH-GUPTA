@@ -1,0 +1,29 @@
+
+.cir {
+    background: rgb(1,117,156);
+    background: linear-gradient(90deg, rgba(1,117,156,1) 0%, rgba(32,219,107,1) 100%);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.phot{
+    align-items: center;
+    text-align: center;
+    text-decoration: dotted;
+    color: brown;
+    
+}
+.phot img{ 
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+.nam{
+    text-decoration: dotted;
+    color: brown;
+    font-size: 350%;
+    font-family: cursive;
+}
+
+
